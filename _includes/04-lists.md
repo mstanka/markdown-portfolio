@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# My favourite activities #
+- hiking in the mountains
+- practicing taichi
+- running
+- learning 
